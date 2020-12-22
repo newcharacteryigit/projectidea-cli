@@ -1,8 +1,0 @@
-setup.py
-projectidea/_init_.py
-projectidea/_main_.py
-projectidea_cli.egg-info/PKG-INFO
-projectidea_cli.egg-info/SOURCES.txt
-projectidea_cli.egg-info/dependency_links.txt
-projectidea_cli.egg-info/entry_points.txt
-projectidea_cli.egg-info/top_level.txt
