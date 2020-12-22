@@ -1,0 +1,3 @@
+[console_scripts]
+projectidea = projectidea.__main__:main
+
