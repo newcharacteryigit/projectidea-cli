@@ -1,6 +1,6 @@
 # Project Idea CLI
 
-Project idea cli is a idea finder for your projects. When you try find a project idea to make, you can find idea easily with different difficulty levels in your terminal.
+Project idea cli is idea finder for your projects. When you try find a project idea to make, you can find idea easily with different difficulty levels in your terminal.
 
 ### Installation
 
