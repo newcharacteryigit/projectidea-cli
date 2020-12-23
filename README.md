@@ -9,7 +9,7 @@ You need [Python](https://www.python.org/) to run it.
 Go to project directory and install the cli:
 
 ```sh
-$ pip3 install .
+$ pip3 install git+https://github.com/newcharacteryigit/projectidea-cli#egg=projectidea-cli
 ```
 
 If you want you can delete with this command:
@@ -17,7 +17,7 @@ If you want you can delete with this command:
 ```sh
 $ pip3 uninstall projectidea-cli
 ```
-**If you don't have [colorama](https://pypi.org/project/colorama/) library for python, you need to install it.
+**Normally [colorama](https://pypi.org/project/colorama/) library comes with python but if you don't have, you need to install it.
 
 ### Usage
 
@@ -39,7 +39,7 @@ $ projectidea impossible
 
 ### Contact
 
-You can give ideas, report problem or contact me from *projectideacli@gmail.com*
+You can give ideas, report problem or contact me from **projectideacli@gmail.com**
 
 License
 ----
