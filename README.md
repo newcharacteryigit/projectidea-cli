@@ -6,7 +6,7 @@ Project idea cli is idea finder for your projects. When you try find a project i
 
 You need [Python](https://www.python.org/) to run it.
 
-Go to project directory and install the cli:
+Run the following command in your terminal and install cli:
 
 ```sh
 $ pip3 install git+https://github.com/newcharacteryigit/projectidea-cli#egg=projectidea-cli
