@@ -12,7 +12,7 @@ Run the following command in your terminal and install cli:
 $ pip3 install git+https://github.com/newcharacteryigit/projectidea-cli#egg=projectidea-cli
 ```
 
-If you want you can delete with this command:
+If you want, you can delete with this command:
 
 ```sh
 $ pip3 uninstall projectidea-cli
