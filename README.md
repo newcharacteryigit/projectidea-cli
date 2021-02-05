@@ -36,11 +36,6 @@ $ projectidea hard
 $ projectidea impossible
 ```
 
-
-### Contact
-
-You can give ideas, report problem or contact me from **projectideacli@gmail.com**
-
 License
 ----
 
